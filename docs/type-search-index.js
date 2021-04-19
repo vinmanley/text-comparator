@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"ie.gmit.dip","l":"FileHandler"},{"p":"ie.gmit.dip","l":"Menu"},{"p":"ie.gmit.dip","l":"Runner"},{"p":"ie.gmit.dip","l":"Shinglizer"},{"p":"ie.gmit.dip","l":"TextComparator"},{"p":"ie.gmit.dip","l":"TextProcessor"}];updateSearchResults();
